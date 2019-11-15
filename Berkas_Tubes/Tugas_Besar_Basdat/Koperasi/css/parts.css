@@ -1,0 +1,86 @@
+#atas{
+		max-width:1450px;
+		height:100px;
+		border:1px #01B4FF;
+		margin:0 auto;
+		background: #00FF9A;
+}
+#atas_kiri{
+		background:;
+		float: left;
+		width:10%;
+		height:100%;
+		border:none;
+		margin-left:2%;
+		border-top:none;
+		border-left:none;
+		
+}
+#Atas_kanan{
+		
+		width:90%;
+		height:100%;
+		margin-left:1%;
+		
+}
+
+#tengah{
+		max-width:1450px;
+		height:900px;
+		border:1px solid blue;
+		margin:0 auto;
+		background: linear-gradient(to bottom,#fefefe,#ded8e8);
+}
+#tengah_kiri{
+		background:;
+		float: left;
+		width:15%;
+		height:100%;
+		border:none;
+		margin-left:1%;
+		border-top:none;
+		border-left:none;
+		
+}
+#tengah_kanan{
+		
+		width:85%;
+		height:100%;
+		margin-left:25%
+		
+}
+#bawah{
+		max-width:1450px;
+		height:75px;
+		border:1px solid blue;
+		margin:0 auto;
+		border-top:none;
+		background:#6C002D;
+}
+.menu-header{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+	padding-left:35px;
+    display:block;
+	background-color:black
+}
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+ul li {display:block;}
+ul li:hover {background: #e241ff;}
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 100px;
+  display: none;
+}
+ul li ul li { 
+  background: #555555; 
+  display: block; 
+}
+ul li ul li a {display:block !important;} 
+ul li ul li:hover {background: #666;}
