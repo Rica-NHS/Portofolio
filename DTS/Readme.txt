@@ -6,4 +6,8 @@ Semua code menggunakan google colabs.
 Oleh karena itu, semua code yang tedapat mengimport data baik dari csv atau pun image terdapat code yang berfungsi untuk connecting
 dengan gdrive. Akan tetapi, saya juga upload data yang digunakan.
 
-untuk test code tersebut, upload data terlebih dahulu ke dalam google colabs
+untuk test code tersebut, upload data terlebih dahulu ke dalam google colabs.
+
+
+Untuk Klasifikasi Gambar,
+Data yang digunakan adalah folder "3scenes" dan file code "classify_gambar"
